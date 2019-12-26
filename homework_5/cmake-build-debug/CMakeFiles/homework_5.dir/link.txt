@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/homework_5.dir/CAVE.cpp.o CMakeFiles/homework_5.dir/homework_5.cpp.o CMakeFiles/homework_5.dir/PLAYER.cpp.o  -o homework_5 
